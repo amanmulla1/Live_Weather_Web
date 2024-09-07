@@ -68,7 +68,7 @@ button:hover {
 
 #hourly-forecast {
     margin-top: 50px;
-    overflow-x:auto;
+    overflow-x: auto;
     white-space: nowrap;
     display: flex;
     justify-content: space-between;
